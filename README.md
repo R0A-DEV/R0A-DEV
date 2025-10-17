@@ -41,7 +41,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react, reactnative, supabase" />
 </p>
 
 ---

@@ -39,10 +39,16 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack MOBILE APPS 📱
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react, reactnative, supabase" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,supabase,stripe" />
 </p>
+
+### 🛠 Tech Stack WEB APPS 💻
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,supabase,stripe" />
+</p>
+
 
 ---
 

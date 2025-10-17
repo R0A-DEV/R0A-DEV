@@ -38,9 +38,9 @@
 </p>
 
 ---
-
+### 🛠 Tech Stack MOBILE APPS 📱
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,supabase,stripe,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,supabase,swift,kotlin" />
 </p>
 
 
@@ -63,7 +63,6 @@
 ### 🏆 Achievements & Projects
 ✅ Built multiple full-stack applications using **React Native & Node.js**  
 ✅ Created **¿En Cuánto Llega?**, a public transportation app to improve commuting 🚍  
-✅ Active contributor on **GitHub**, sharing open-source projects  
 
 ---
 
